@@ -1,0 +1,61 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  background-color: #2D8BB9;
+  font-family: 'Arimo';
+  color: #fff;
+  padding: 20px;
+  margin: 0;
+  text-align: center;
+}
+
+.logo {
+  margin-bottom: 20px;
+}
+
+.message {
+  display: block;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.author {
+  display: block;
+  color: #B3E0F6;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+.btn {
+  font-size: 16px;
+  display: inline-block;
+  padding: 0 30px;
+  border-radius: 3px;
+  background: #f7f7f7;
+  color: #444;
+  border: 1px solid #e7e7e7;
+  line-height: 1;
+  -webkit-appearance: button;
+  cursor: pointer;
+  min-height: 60px;
+  max-height: 60px;
+}
+
+.btn__img {
+  /*border: 1px solid #0F4762;*/
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 3px;
+}
+
+.btn__label {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.btn-login {
+  background-color: #196E98;
+  border: 1px solid #0F4762;
+  color: #fff;
+
+}
